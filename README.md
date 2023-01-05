@@ -7,8 +7,14 @@
 - Too use this tool, researchers can simply fill in any of the five filter fields on the UFO website and imediately see the results.  The five search fields are Date, City, State, Country and Shape. As shown below, filling in the shape field with "triangle" will filter the dataset and show all the triangle shaped craft. 
 ![This is an image](/images/shapes.PNG)
 
-- If you know the name of the city, you may enter that in the city field to show how many visitors thath city has had.
+- Entering a state, will show how many visitors that state has had.
 ![This is an image](/images/city.PNG)
+
+- If you know the name of a city, you may enter that in the city field to show how many visitors that particular city has had.
+![This is an image](/images/city.PNG)
+
+- Real research comes into play when all the fields are filled in.
+![This is an image](/images/full.PNG)
 ### Summary:
 
 The summary addresses one drawback of this webpage (2 pt)
