@@ -8,7 +8,7 @@
 ![This is an image](/images/shapes.PNG)
 
 - If you know the name of the city, you may enter that in the city field to show how many visitors thath city has had.
-![This is an image](/images/city .PNG)
+![This is an image](/images/city.PNG)
 ### Summary:
 
 The summary addresses one drawback of this webpage (2 pt)
